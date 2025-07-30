@@ -56,6 +56,6 @@ Displays all stored shapes in ID order with dimensions.
 
 ## 👤 Author
 
-Masrura Mayeesha  
+Wafeea Anisha  
 BSc in CSE, CUET  
 GitHub: [wiiffiie](https://github.com/wiiffiie)
